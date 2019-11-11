@@ -1,0 +1,3 @@
+include ="{$include,.tm_properties,.editorconfig,.gitignore}"
+softWrap=true
+softTabs=2
